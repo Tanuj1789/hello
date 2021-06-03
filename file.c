@@ -1,5 +1,5 @@
 // C program to Open a File,
-// Write in it, And Close the File
+// Write in it, And Close the File t
 
 # include <stdio.h>
 # include <string.h>
